@@ -7,4 +7,4 @@
 *方立謙(GitHub:t113370202-ship-it)  ID(113370202)  
 *黃睿恩(GitHub:113370229)   ID(113370229)  
 
-![Visitor Count](https://profile-counter.glitch.me/hung-cc.2026-Spring-Stat-2-Cycle-1/count.svg)
+![Project Views](https://komarev.com/ghpvc/?username=hung-cc-2026-Spring-Stat-2-Cycle-1&label=Project+Views&color=00FF00&style=flat)
