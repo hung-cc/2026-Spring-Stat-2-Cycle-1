@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=NTUT+Statistics+Practicum;Diabetes+Data+Analysis;Group+7+Project+Cycle+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=NTUT+Statistics+Practicum;Diabetes+Data+Analysis;Group+7+Project+Cycle+1)](https://git.io/typing-svg)
 
 #2026 pring tst 2-ycle 1###第七組成員:  
 
